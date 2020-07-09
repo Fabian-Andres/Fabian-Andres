@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Fabian-Andres/Fabian-Andres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# .... . .-.. .-.. ---     .-- --- .-. .-.. -.. -·-·--
+
+I am a coder, and I really like to create and feel the satisfaction of the work done.
+
+I think creating code can be considered Art, maybe it is something philosophical, but some people believe that the earth is flat and they are happy with it.
+
+My [Twitter](https://twitter.com/f4bian_andres) and [Linkedin](https://linkedin.com/in/fabianriascos/)
